@@ -48,13 +48,13 @@ input, button {
     border-bottom-right-radius: 5px;
     cursor: pointer;
     padding: 16px 25px;
-    color: #2d3ef6;
+    color: #0217f8;
     background: #fff;
     border-left: 2px solid #eee;
 }
 
 .input-container button:hover {
-    background: #2d3ef6;
+    background: #0217f8;
     color: #fff;
 
 }
